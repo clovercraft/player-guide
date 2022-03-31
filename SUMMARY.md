@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Overview](README.md)
+* [Getting Started](getting-started.md)
+* [Navigating the Server](navigating-the-server.md)
+* [Vanilla Tweaks](vanilla-tweaks.md)
+* [Land Claims](land-claims.md)
+* [In-Game Economy](in-game-economy.md)
+* [Game Mod Support](game-mod-support/README.md)
+  * [Installing MultiMC](game-mod-support/installing-multimc.md)
+  * [Installing Technic Launcher](game-mod-support/installing-technic-launcher.md)
+* [Command Reference](command-reference.md)
+* [Staff Team](staff-team.md)
+* [Third Life](third-life.md)
+* [CC Survivors](cc-survivors.md)
