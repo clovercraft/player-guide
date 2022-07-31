@@ -23,6 +23,12 @@ The Quality-of-Life modpack runs on Fabric, and includes the following mods:
 
 ### Installing the Modpack
 
+{% hint style="danger" %}
+**Warning**
+
+Currently the 1.19 modpack is in Beta release. You may run into issues. Full support will be available for a release version shortly.
+{% endhint %}
+
 **Requirements**
 
 * a valid Mojang or Microsoft account
@@ -34,6 +40,6 @@ The Quality-of-Life modpack runs on Fabric, and includes the following mods:
 2. Choose "Import from Zip" in the menu on the left of the New Instance dialogue
 3. Name the instance whatever you like (I've named mine "Clovercraft")
 4. Copy the URL below and paste it into the Import from Zip field\
-   `https://clovercraft.gg/modpacks/multimc/Clovercraft.zip`
+   `https://clovercraft.gg/modpacks/multimc/Season3-BETA-PR1.zip`
 5. Click "OK" to create the instance.
 6. That's it! You can launch the game by either double-clicking on the instance, or clicking on the "Launch" button with the Clovercraft instance selected.

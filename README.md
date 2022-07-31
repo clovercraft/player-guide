@@ -1,11 +1,5 @@
 # Overview
 
-{% hint style="info" %}
-### 1.18 Notice
-
-We are now running the brand new Minecraft 1.18 update! Some of our extended features that are supported by plugins may or may not be functional at the moment. You can see the issues that we're keeping track of with this update on our [Github Issues Tracker](https://github.com/clovercraft/docs/issues). Please check the issue tracker before reporting new bugs to make sure you're not submitting duplicates.
-{% endhint %}
-
 ### Basic Server Information
 
 To join the Clovercraft SMP, you must be a member of our [Discord server](https://discord.gg/mpQdPEzjb4).&#x20;
